@@ -1,0 +1,168 @@
+.mainb
+{
+    background-color: rgb(103, 102, 102);
+}
+.mainbd p
+{
+    background-color: rgb(103, 102, 102);
+}
+.ap11
+{
+    width: 100%;
+    height: 30px;
+    background-color: red;
+    display: flex;
+    justify-content: center; /* for horizontal center */  
+    align-items: center;  /* for vertical center  */
+    color: white;
+
+}
+*
+{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    top: 0px;
+    background-color: black;
+    height: auto;
+    display: flexbox;
+    justify-content: center;
+}
+.navbar1
+{
+    margin-bottom: 10px;
+    /* outline: 1px solid white; */
+    margin-right: 20px;
+}
+.a1
+{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    top: 0px;
+    /* background-color: black; */
+    height: 80px;
+    border-bottom:00.5px solid rgb(76, 75, 75) ;
+    position: sticky;
+    z-index: 1;
+}
+.a2
+{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    top: 0px;
+}
+.a3
+{
+    /* background-color: black; */
+    height: auto;
+    width: 200px;
+    float: left;
+    padding: 0px 0px;
+    margin: 10px 40px;
+    top: 0px;
+    /* border: 2px solid white; */
+}
+.a3 img
+{
+    width: 50%;
+}
+.a4
+{
+    /* background-color: black; */
+    height: auto;
+    width: 170px;
+    float: right;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    top: 0px;
+    /* border: 1px solid rebeccapurple; */
+}
+.a4 img
+{
+    float: right;
+    cursor: pointer;
+}
+.a5
+{
+    /* background-color: black; */
+    height: auto;
+    width: auto;
+    float: right;
+    padding: 0px 0px;
+    margin-top: 20px;
+    top: 0px;
+    /* border: 1px solid rebeccapurple; */
+    color: white;
+    align-items: center;
+    justify-content: center;
+
+}
+.a5 li
+{
+    list-style: none;
+    float: left;
+    height: 40px;
+    font-size: 18px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.a5 li a
+{
+    /* margin-top: 35px; */
+    text-decoration: none;
+    padding: 0px 15px ;
+    color: white;
+}
+.a5 li a:hover
+{
+    border-bottom: 2px solid white ;
+}
+.btn {
+    padding: 8px 20px;
+    margin: 7px 0;
+    /* border: 2px solid white; */
+    border-radius: 8px;
+    background: none;
+    font-weight:bold;
+    color: white;
+    cursor: pointer;
+    height: 40px;
+}
+#search {
+    padding: 5px;
+    font-size: 15px;
+    border: 2px solid whitesmoke;
+    border-radius: 15px;
+    height: 25px;
+    width: 220px;
+    margin-top: 0px;
+    background-color: white;
+
+}
+.navbar1 input
+{
+    background-color: transparent;
+    border: 4px solid white;
+    border-radius: 5px;
+    outline-style: none;
+    color: black;
+    font-size: large;
+    font-family: "montserrat", sans-serif;
+}
+.navbar1 input:hover
+{
+    background-color: transparent;
+}
+.Section1 img
+{
+  width: 100%;
+  height: auto;
+  display: cover;
+}
+.Section1
+{
+    margin-top: 10px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    display: block;
+}

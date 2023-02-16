@@ -1,0 +1,485 @@
+.product
+{
+    /* border: 2px solid white; */
+    width: 100%;
+    height: 3200px;
+}
+/* ---------product Photo------------------- */
+/* ----------------------------------------- */
+/* -------------R1-C1----------------------- */
+/*  */
+/* ---------------------img-1------------------- */
+.p121-1
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/1-1.webp) ;
+    background-size: cover;
+}
+.p121-1:hover
+{
+    background-image: url(img/1-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------2------------------- */
+.p121-2
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/2-1.webp) ;
+    background-size: cover;
+}
+.p121-2:hover
+{
+    background-image: url(img/2-2.webp) ;
+    background-size: cover;
+}
+/* -------------------3-------------------- */
+.p121-3
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/3-1.webp) ;
+    background-size: cover;
+}
+.p121-3:hover
+{
+    background-image: url(img/3-2.webp) ;
+    background-size: cover;
+}
+/* -------------------4-********------------------- */
+.p121-4
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/4-1.webp) ;
+    background-size: cover;
+}
+.p121-4:hover
+{
+    background-image: url(img/4-2.webp) ;
+    background-size: cover;
+}
+/* -------------------5-********------------------- */
+.p121-5
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/5-1.webp) ;
+    background-size: cover;
+}
+.p121-5:hover
+{
+    background-image: url(img/5-2.webp) ;
+    background-size: cover;
+}
+/* -------------------6-********------------------- */
+.p121-6
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/6-1.webp) ;
+    background-size: cover;
+}
+.p121-6:hover
+{
+    background-image: url(img/6-2.webp) ;
+    background-size: cover;
+}
+/* -------------------7-********------------------- */
+.p121-7
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/7-1.webp) ;
+    background-size: cover;
+}
+.p121-7:hover
+{
+    background-image: url(img/7-2.webp) ;
+    background-size: cover;
+}
+/* -------------------8-********------------------- */
+.p121-8
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/8-1.webp) ;
+    background-size: cover;
+}
+.p121-8:hover
+{
+    background-image: url(img/8-2.webp) ;
+    background-size: cover;
+}
+/* -------------------9-********------------------- */
+.p121-9
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/9-1.webp) ;
+    background-size: cover;
+}
+.p121-9:hover
+{
+    background-image: url(img/9-2.webp) ;
+    background-size: cover;
+}
+/* -------------------10-********------------------- */
+.p121-10
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/10-1.webp) ;
+    background-size: cover;
+}
+.p121-10:hover
+{
+    background-image: url(img/10-2.webp) ;
+    background-size: cover;
+}
+/* -------------------11-********------------------- */
+.p121-11
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/11-1.webp) ;
+    background-size: cover;
+}
+.p121-11:hover
+{
+    background-image: url(img/11-2.webp) ;
+    background-size: cover;
+}
+/* -------------------12-********------------------- */
+.p121-12
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/12-1.webp) ;
+    background-size: cover;
+}
+.p121-12:hover
+{
+    background-image: url(img/12-2.webp) ;
+    background-size: cover;
+}
+/* -------------------13-********------------------- */
+.p121-13
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/13-1.webp) ;
+    background-size: cover;
+}
+.p121-13:hover
+{
+    background-image: url(img/13-2.webp) ;
+    background-size: cover;
+}
+/* -------------------14-********------------------- */
+.p121-14
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/14-1.webp) ;
+    background-size: cover;
+}
+.p121-14:hover
+{
+    background-image: url(img/14-2.webp) ;
+    background-size: cover;
+}
+/* --------------------15********------------------- */
+.p121-15
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/15-1.webp) ;
+    background-size: cover;
+}
+.p121-15:hover
+{
+    background-image: url(img/15-2.webp) ;
+    background-size: cover;
+}
+/* --------------------16********------------------- */
+.p121-16
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/16-1.webp) ;
+    background-size: cover;
+}
+.p121-16:hover
+{
+    background-image: url(img/16-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------17*******------------------- */
+.p121-17
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/17-1.webp) ;
+    background-size: cover;
+}
+.p121-17:hover
+{
+    background-image: url(img/17-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------*18******------------------- */
+.p121-18
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/18-1.webp) ;
+    background-size: cover;
+}
+.p121-18:hover
+{
+    background-image: url(img/18-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------**19*****------------------- */
+.p121-19
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/19-1.webp) ;
+    background-size: cover;
+}
+.p121-19:hover
+{
+    background-image: url(img/19-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------***20****------------------- */
+.p121-20
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/20-1.webp) ;
+    background-size: cover;
+}
+.p121-20:hover
+{
+    background-image: url(img/20-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------****21***------------------- */
+.p121-21
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/21-1.webp) ;
+    background-size: cover;
+}
+.p121-21:hover
+{
+    background-image: url(img/21-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------****22****------------------- */
+.p121-22
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/22-1.webp) ;
+    background-size: cover;
+}
+.p121-22:hover
+{
+    background-image: url(img/22-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------****23****------------------- */
+.p121-23
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/23-1.webp) ;
+    background-size: cover;
+}
+.p121-23:hover
+{
+    background-image: url(img/23-2.webp) ;
+    background-size: cover;
+}
+/* ---------------------****24****------------------- */
+.p121-24
+{
+    /* width: 230px;
+    /* margin-top: 140px; */
+    /* margin-bottom: 2px ; */
+    width: 100%; 
+    /* border: 1px solid red; */
+    background-color:  rgb(220, 220, 219);
+    border-radius: 30px ;
+    height: 57%;
+    background-image: url(img/24-1.webp) ;
+    background-size: cover;
+}
+.p121-24:hover
+{
+    background-image: url(img/24-2.webp) ;
+    background-size: cover;
+}
+
+/* ----------product details-------------------- */
+.p122
+{
+    margin-bottom: 2px ;
+    margin-left: 4% ;
+    width: 90%; 
+    /* border: 1px solid red; */
+    background-color: white;
+    border-radius: 30px ;
+    height: 40%;
+    background-image: url(img/1-1b.png) ;
+    background-size: 100%;
+}
+
+/* ----------------------------------------- */
+/******************* video *******************/
+
+/*********************************************/
